@@ -87,7 +87,7 @@
  #ifndef ARCH
   #include <sys/systeminfo.h>
  #endif
- #define JVMDLL "%s/jre/lib/%s/%s/libjvm.so"
+ #define JVMDLL "%s/lib/%s/%s/libjvm.so"
  #define DIRSEPARATOR '/'
  #define CLASSPATH_SEP ':'
 #endif
